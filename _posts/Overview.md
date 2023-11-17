@@ -1,0 +1,26 @@
+---
+layout: post
+author: HyunJun-Jung
+tags: [overview, moonwalk]
+---
+
+## Intro
+
+- Country : Republic of Korea
+- Developing Field : DirectX & Unreal
+- Language : C & C++
+
+## Project Lists
+
+Progress:
+
+1. Unnamed Unreal Project (Unreal)
+2. Undertaker (DirectX)
+3. Gommoku (WinApi) (TCP)
+   
+Completed:
+1. Terrain Editor (DirectX)
+
+## Email
+- jhj123p@gmail.com
+- jhj111p@naver.com
